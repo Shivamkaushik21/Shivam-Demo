@@ -1,2 +1,2 @@
-# Shivam-Demo-Repo
+# Shivam-Demo
 This is my Demo Repository
